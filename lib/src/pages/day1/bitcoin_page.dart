@@ -62,7 +62,9 @@ class BtcCard1 extends StatelessWidget {
               children: [
                 ElevatedButton(
                   style: ElevatedButton.styleFrom(
-                      shape: CircleBorder(), primary: Colors.orangeAccent),
+                    shape: CircleBorder(),
+                    primary: Colors.orangeAccent,
+                  ),
                   child: Container(
                       width: 40,
                       height: 40,
