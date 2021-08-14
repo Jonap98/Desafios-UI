@@ -1,16 +1,17 @@
 # challenges
 
-A new Flutter project.
+Catalogo de desafios UI en Flutter
 
-## Getting Started
+## Consiste en:
 
-This project is a starting point for a Flutter application.
+Un kit de interfaces por día en donde se destacan los aspectos de diseño de interfaces
 
-A few resources to get you started if this is your first Flutter project:
+Diseños realizados:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Day-1](https://user-images.githubusercontent.com/48542924/129430863-d30772ee-4e6e-4eb3-8319-ef8f0d4608b6.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Day-2](https://user-images.githubusercontent.com/48542924/129430868-c20c4f8a-f27c-438b-b3c4-320ddfdc1b06.jpg)
+
+![Day-3](https://user-images.githubusercontent.com/48542924/129430872-c0de1e8d-276d-4fe7-bdc8-7c2267e0799a.jpg)
+
+![Day-4jpg](https://user-images.githubusercontent.com/48542924/129430875-f8fc00d1-ac6b-4906-994a-4bbcfb0ebdf2.jpg)
