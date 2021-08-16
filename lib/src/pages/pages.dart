@@ -23,3 +23,7 @@ export 'package:challenges/src/pages/day4/activity_page.dart';
 export 'package:challenges/src/pages/day5/login_meditate_page.dart';
 export 'package:challenges/src/pages/day5/initial_meditate_page.dart';
 export 'package:challenges/src/pages/day5/songs_page.dart';
+
+// Day 6
+export 'package:challenges/src/pages/day6/destinations_page.dart';
+export 'package:challenges/src/pages/day6/destination_details_page.dart';
