@@ -13,3 +13,13 @@ export 'package:challenges/src/pages/day2/spanish_page.dart';
 export 'package:challenges/src/pages/day3/initial_page.dart';
 export 'package:challenges/src/pages/day3/metro_page.dart';
 export 'package:challenges/src/pages/day3/ticket_page.dart';
+
+// Day 4
+export 'package:challenges/src/pages/day4/login_page.dart';
+export 'package:challenges/src/pages/day4/general_page.dart';
+export 'package:challenges/src/pages/day4/activity_page.dart';
+
+// Day 5
+export 'package:challenges/src/pages/day5/login_meditate_page.dart';
+export 'package:challenges/src/pages/day5/initial_meditate_page.dart';
+export 'package:challenges/src/pages/day5/songs_page.dart';

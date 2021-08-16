@@ -18,6 +18,11 @@ class SelectionPage extends StatelessWidget {
                   text: 'English Room',
                   page: 'initial_page_languages',
                   size: size),
+              OptionButton(text: 'Flash Gym', page: 'login_page', size: size),
+              OptionButton(
+                  text: 'Meditate App',
+                  page: 'login_meditate_page',
+                  size: size),
             ],
           ),
         ),
