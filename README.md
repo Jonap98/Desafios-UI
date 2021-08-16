@@ -18,3 +18,6 @@ Diseños realizados:
 ![Day-4jpg](https://user-images.githubusercontent.com/48542924/129430875-f8fc00d1-ac6b-4906-994a-4bbcfb0ebdf2.jpg)
 
 ![Day-5](https://user-images.githubusercontent.com/48542924/129501220-1a9eeca5-760c-410e-afea-f72d63467add.jpg)
+
+![Day-6](https://user-images.githubusercontent.com/48542924/129641179-cd98b195-20f1-47d7-8afc-f69ed9ca16f6.png)
+
