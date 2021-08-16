@@ -22,5 +22,10 @@ Map<String, WidgetBuilder> getAplicationRoutes() {
     'login_page': (BuildContext context) => LoginPage(),
     'general_page': (BuildContext context) => GeneralPage(),
     'activity_page': (BuildContext context) => ActivityPage(),
+
+    // Day 5
+    'login_meditate_page': (BuildContext context) => LoginMeditatePage(),
+    'initial_meditate_page': (BuildContext context) => InitialMeditatePage(),
+    'songs_page': (BuildContext context) => SongsPage(),
   };
 }
