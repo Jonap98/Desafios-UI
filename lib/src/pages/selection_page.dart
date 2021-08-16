@@ -8,8 +8,9 @@ class SelectionPage extends StatelessWidget {
     return Scaffold(
       body: Center(
         child: Container(
-          margin: EdgeInsets.symmetric(vertical: 100.0),
-          child: Column(
+          margin: EdgeInsets.only(top: 100.0, left: 50.0, right: 50.0),
+          child: ListView(
+            physics: BouncingScrollPhysics(),
             children: [
               OptionButton(text: 'Wallet', page: 'wallet_page', size: size),
               OptionButton(
@@ -23,6 +24,8 @@ class SelectionPage extends StatelessWidget {
                   text: 'Meditate App',
                   page: 'login_meditate_page',
                   size: size),
+              OptionButton(
+                  text: 'Travels', page: 'destinations_page', size: size),
             ],
           ),
         ),
